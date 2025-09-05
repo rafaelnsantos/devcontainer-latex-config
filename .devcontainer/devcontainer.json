@@ -1,0 +1,9 @@
+{
+    "name": "TeX Live",
+    "image": "ghcr.io/rafaelnsantos/devcontainer-latex:latest",
+    "customizations": {
+        "vscode": {
+            "extensions": ["james-yu.latex-workshop"]
+        }
+    }
+}
