@@ -1,6 +1,6 @@
 {
     "name": "TeX Live",
-    "image": "ghcr.io/rafaelnsantos/devcontainer-latex:linux-arm64-ubuntu22.04",
+    "image": "ghcr.io/rafaelnsantos/devcontainer-latex:ubuntu22.04",
     "customizations": {
         "vscode": {
             "extensions": ["james-yu.latex-workshop"]
